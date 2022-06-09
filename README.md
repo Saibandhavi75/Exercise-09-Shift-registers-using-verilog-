@@ -56,9 +56,7 @@ A Parallel in Parallel out (PIPO) shift register is used as a temporary storage 
 ```
 /*
 Program for  Implementation-of Shift-registers-using-verilog-
-
 Developed by:Aruru.Sai Bandhavi 
-
 RegisterNumber:  212221240006
 */
 ```
@@ -113,21 +111,21 @@ endmodule
 ![output](https://github.com/Saibandhavi75/Exercise-09-Shift-registers-using-verilog-/blob/main/1.png?raw=true)
 
 ### Timing Diagram for Shift Registers:
-![output](https://github.com/Saibandhavi75/Exercise-09-Shift-registers-using-verilog-/blob/main/2.png?raw=true)
+![output](https://github.com/Saibandhavi75/Exercise-09-Shift-registers-using-verilog-/blob/main/22.png?raw=true)
 
 ### Parallel Input Serial Output (PISO):
 ### RTL Registers:
 ![output](https://github.com/Saibandhavi75/Exercise-09-Shift-registers-using-verilog-/blob/main/3.png?raw=true)
 
 ### Timing Diagram for Shift Registers:
-![output](https://github.com/Saibandhavi75/Exercise-09-Shift-registers-using-verilog-/blob/main/4.png?raw=true)
+![output](https://github.com/Saibandhavi75/Exercise-09-Shift-registers-using-verilog-/blob/main/44.png?raw=true)
 
 ### Parallel Input Parallel Output (PIPO):
 ### RTL Registers:
 ![output](https://github.com/Saibandhavi75/Exercise-09-Shift-registers-using-verilog-/blob/main/5.png?raw=true)
 
 ### Timing Diagram for Shift Registers:
-![output](https://github.com/Saibandhavi75/Exercise-09-Shift-registers-using-verilog-/blob/main/6.png?raw=true)
+![output](https://github.com/Saibandhavi75/Exercise-09-Shift-registers-using-verilog-/blob/main/66.png?raw=true)
 
 ### RESULTS 
 Thus, PISO , PIPO, SIPO are implemented using verilog and their functionality using their functional tables is validated.
